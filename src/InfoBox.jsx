@@ -1,4 +1,4 @@
-import style from "./css_modules/infoBox.module.css";
+import style from "./css_modules/InfoBox.module.css";
 import Card from "@mui/material/Card";
 import CardContent from "@mui/material/CardContent";
 import CardMedia from "@mui/material/CardMedia";
