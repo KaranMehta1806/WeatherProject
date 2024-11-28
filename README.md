@@ -46,12 +46,13 @@ Create a .env file in the root directory of the project and add your OpenWeather
 VITE_WEATHER_API_KEY=your_api_key_here
 ```
 
-### 3. Start the Development Server
+### 4. Start the Development Server
 Once the dependencies are installed and the .env file is set up, you can start the development server with the following command:
 
 ```bash
 npm run dev
 ```
+
 
 
 
