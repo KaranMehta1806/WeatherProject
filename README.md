@@ -65,10 +65,11 @@ npm run dev
 ---
 
 ## Screenshots
-<img src="/public/Screenshot1.png" alt="Main Screen" width="300" />
-<img src="/public/Screenshot2.png" alt="Main Screen" width="300" />
-<img src="/public/Screenshot3.png" alt="Main Screen" width="300" />
-
+<div style="text-align: center;">
+  <img src="/public/Screenshot1.png" alt="Main Screen" width="300" />
+  <img src="/public/Screenshot2.png" alt="Main Screen" width="300" />
+  <img src="/public/Screenshot3.png" alt="Main Screen" width="300" />
+</div>
 ---
 
 ## 📞 Contact
