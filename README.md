@@ -24,11 +24,7 @@ A real-time weather forecast application built with **React**, **Material-UI**, 
 ## 🛠️ Installation
 
 ### 1. Clone the Repository
-
+```bash
 git clone https://github.com/KaranMehta1806/WeatherProject.git
 cd WeatherProject
-
-### 2. Install Dependencies
-
-npm install
 
