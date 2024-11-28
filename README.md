@@ -56,8 +56,8 @@ npm run dev
 ---
 
 ## Contact
-- <a href="https://www.linkedin.com/in/yourlinkedinprofile"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo_2013.svg/1200px-LinkedIn_Logo_2013.svg.png" alt="LinkedIn" width="20" /></a> **[LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)**
-- <a href="https://github.com/KaranMehta1806"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" alt="GitHub" width="20" /></a> **[GitHub](https://github.com/KaranMehta1806)**
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedinprofile)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/KaranMehta1806)
 
 
 
