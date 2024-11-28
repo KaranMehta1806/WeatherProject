@@ -28,7 +28,7 @@ A real-time weather forecast application built with **React**, **Material-UI**, 
 git clone https://github.com/KaranMehta1806/WeatherProject.git
 cd WeatherProject
 
-2. Install Dependencies
+### 2. Install Dependencies
 ```bash
 Run the following command to install all the required dependencies for the project:
 npm install
