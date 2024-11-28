@@ -60,7 +60,7 @@ npm run dev
 
 2. **Enter a city name** in the search bar.
 
-3. **Click "Search"** to view the current weather conditions for the specified city
+3. **Click Search** to view the current weather conditions for the specified city
 
 
 ---
