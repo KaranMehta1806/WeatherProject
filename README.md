@@ -65,7 +65,7 @@ npm run dev
 ---
 
 ## Screenshots
-![Main Screen](./public/images/screenshot1.png)
+![Main Screen](./public/screenshot1.png)
 
 ---
 
