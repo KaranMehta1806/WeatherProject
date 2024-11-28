@@ -1,0 +1,59 @@
+.infoBox {
+    margin-top: 0; 
+    background-color: #ffffff;
+    border-radius: 15px; 
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
+    max-width: 400px;
+    width: 100%;
+    text-align: center;
+    overflow: hidden;
+    padding: 0; 
+  }
+  
+  .infoBox img, .MuiCardMedia-root {
+    height: 180px; 
+    object-fit: cover; 
+    width: 100%; 
+    margin: 0; 
+    padding: 0; 
+    display: block; 
+  }
+  
+
+.MuiCard-root {
+    margin: 0;
+    padding: 0; 
+    overflow: hidden; 
+    border: none;
+}
+
+.infoBox h5 {
+    color: #0288d1;
+    margin: 20px 0 10px;
+}
+
+.infoBox div {
+    margin: 6px 0;
+    font-size: 1.2rem;
+    color: #333;
+}
+
+.weatherDetails {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1px; 
+  }
+  
+  .weatherRow {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  .weatherLabel {
+    font-weight: bold;
+    width: 120px; 
+    text-align: left;
+    color: #555;
+  }
