@@ -53,6 +53,13 @@ Once the dependencies are installed and the .env file is set up, you can start t
 npm run dev
 ```
 
+---
+
+## Contact
+- ![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo_2013.svg/1200px-LinkedIn_Logo_2013.svg.png) **[LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)**
+- ![GitHub](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png) **[GitHub](https://github.com/KaranMehta1806)**
+
+
 
 
 
