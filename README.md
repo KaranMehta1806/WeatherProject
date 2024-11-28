@@ -62,6 +62,10 @@ npm run dev
 
 3. **Click Search** to view the current weather conditions for the specified city
 
+---
+
+## Screenshots
+![Main Screen](./public/images/screenshot1.png)
 
 ---
 
