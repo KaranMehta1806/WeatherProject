@@ -65,7 +65,7 @@ npm run dev
 ---
 
 ## Screenshots
-![Main Screen](./public/Screenshot1.png)
+<img src="/images/screenshot1.png" alt="Main Screen" width="500" />
 
 ---
 
