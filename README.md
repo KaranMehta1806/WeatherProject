@@ -8,6 +8,7 @@ A real-time weather forecast application built with **React**, **Material-UI**, 
 
 - 🌍 **Search any city** to get real-time weather updates.
 - 🌡️ **Displays temperature, humidity, and conditions**.
+- 🌥️ **Detailed weather descriptions and feels-like temperature**.
 - 📱 **Responsive design** suitable for all screen sizes.
 - 🎨 Modern UI powered by **Material-UI**.
 
