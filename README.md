@@ -27,3 +27,12 @@ A real-time weather forecast application built with **React**, **Material-UI**, 
 ```bash
 git clone https://github.com/KaranMehta1806/WeatherProject.git
 cd WeatherProject
+
+ 2. Install Dependencies
+npm install
+3. Set Up Environment Variables
+Create a .env file in the root directory and add your OpenWeatherMap API key:
+
+REACT_APP_WEATHER_API_KEY=your_api_key_here
+4. Start the Development Server
+npm start
