@@ -52,10 +52,20 @@ Once the dependencies are installed and the .env file is set up, you can start t
 ```bash
 npm run dev
 ```
+---
+## 📱 Usage
+
+1. **Open the app** in your browser at:  
+   [http://localhost:5173](http://localhost:5173)
+
+2. **Enter a city name** in the search bar.
+
+3. **Click "Search"** to view the current weather conditions for the specified city
+
 
 ---
 
-## Contact
+## 📞 Contact
 Feel free to connect with me through the following platforms:
 
 [![LinkedIn](https://img.shields.io/badge/Karan_Mehta_-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehtakaran18)
