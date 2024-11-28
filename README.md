@@ -28,3 +28,7 @@ A real-time weather forecast application built with **React**, **Material-UI**, 
 git clone https://github.com/KaranMehta1806/WeatherProject.git
 cd WeatherProject
 
+### 1. Clone the Repository
+```bash
+git clone https://github.com/KaranMehta1806/WeatherProject.git
+cd WeatherProject
