@@ -65,7 +65,7 @@ npm run dev
 ---
 
 ## Screenshots
-<div style="text-align: center;">
+<div>
   <img src="/public/Screenshot1.png" alt="Main Screen" width="400" />
   <img src="/public/Screenshot2.png" alt="Main Screen" width="400" />
   <img src="/public/Screenshot3.png" alt="Main Screen" width="400" />
